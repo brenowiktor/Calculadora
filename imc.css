@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 5px;
+    font-family: "roboto", 'sans-serif';
+}
+
+div{
+    text-align: center;
+    margin: 200px 700px;
+    padding: 95px;
+    background-color: rgb(60, 61, 61);
+    border-radius: 30px; 
+    color: white;    
+}
+
+.p{
+    font-weight: bold;
+    font-size: 30px;
+    padding: 20px;
+}
+
+input {
+    margin: 10px;
+    border-radius: 5px
+}
+
+button {
+    border-radius: 15px;
+    padding: 7px;
+    background-color: rgb(103, 158, 103);
+}
